@@ -18,7 +18,7 @@ landing page for shoes ecommerece
 
 1. Clone the repository:
 
-> git clone https://github.com/selamde/MovieSearchingApp
+> git clone https://github.com/selamde/MovieSearchingApp](https://github.com/selamde/shoe-design.git
 
 2. Navigate to the project folder:
 
