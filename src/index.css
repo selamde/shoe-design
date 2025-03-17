@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Big Shoulders", sans-serif;
+  src: url('./App.css');
+}
+@font-face {
+  font-family: 'max';
+  src: url('../public/maxlock/Maxlock.ttf');
+}
+
+@theme{
+  --font-primary: 'Big Shoulders';
+  --font-secondary:'max';
+}
+
+
+
+
+
+@utility container{
+  margin-inline:auto;
+  padding-inline:2rem;
+}
+
+
+
+
+@layer components{
+  body{
+    background-color: #fff;
+  }
+}
